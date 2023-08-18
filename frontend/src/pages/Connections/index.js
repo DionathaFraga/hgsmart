@@ -393,7 +393,7 @@ const Connections = () => {
                     WhatsApp
                   </MenuItem>
                   <FacebookLogin
-                    appId=""
+                    appId="786119899929066"
                     autoLoad={true}
                     fields="name,email,picture"
                     version="9.0"
@@ -413,7 +413,7 @@ const Connections = () => {
                   />
 
                   <FacebookLogin
-                    appId=""
+                    appId="786119899929066"
                     autoLoad={true}
                     fields="name,email,picture"
                     version="9.0"
